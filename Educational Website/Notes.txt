@@ -1,0 +1,9 @@
+git branch "Branch-Name" ---> New branch Craeted
+
+To shift to new barnch : git checkout "Branch-Name"
+
+git add . ----> All the files will be added
+
+git commit -m "Commit Message" ---> Files will be in staging area
+
+git push ---> Final push
